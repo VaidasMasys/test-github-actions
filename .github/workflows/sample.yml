@@ -1,6 +1,6 @@
 name: Test workflow 1
 
-on: [push, pull]
+on: [push]
 
 jobs:
   run-shell-command:
